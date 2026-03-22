@@ -2,6 +2,5 @@ YUDHA RESOLUSI
 - AIE
 - EOE
 - SOWMY
-- N
 
-ForBetterSelf
+#ForBetterSelf
