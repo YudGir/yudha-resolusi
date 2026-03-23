@@ -1,2 +1,2 @@
 # yudha-resolusi
-isi dari resolusi Yudha
+Repository RY
