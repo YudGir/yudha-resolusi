@@ -3,3 +3,4 @@ RP
 - Database
 - Python
 - Cisco Packet Tracer
+- Advanced Python: PyTorch, Numpy, Pandas
